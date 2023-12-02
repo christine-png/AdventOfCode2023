@@ -1,0 +1,14 @@
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.AssemblyInfoInputs.cache
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.AssemblyInfo.cs
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.csproj.CoreCompileInputs.cache
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\bin\Debug\net7.0\1.1.exe
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\bin\Debug\net7.0\1.1.deps.json
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\bin\Debug\net7.0\1.1.runtimeconfig.json
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\bin\Debug\net7.0\1.1.dll
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\bin\Debug\net7.0\1.1.pdb
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.dll
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\refint\1.1.dll
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.pdb
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\1.1.genruntimeconfig.cache
+C:\Users\chrti\OneDrive - Fachhochschule Salzburg GmbH\1.Semester\Einführung Programmieren\AdventOfCode\1.1\obj\Debug\net7.0\ref\1.1.dll
