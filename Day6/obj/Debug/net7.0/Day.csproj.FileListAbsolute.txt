@@ -1,0 +1,14 @@
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\bin\Debug\net7.0\Day.exe
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\bin\Debug\net7.0\Day.deps.json
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\bin\Debug\net7.0\Day.runtimeconfig.json
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\bin\Debug\net7.0\Day.dll
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\bin\Debug\net7.0\Day.pdb
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.AssemblyInfoInputs.cache
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.AssemblyInfo.cs
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.csproj.CoreCompileInputs.cache
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.dll
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\refint\Day.dll
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.pdb
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\Day.genruntimeconfig.cache
+C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day\obj\Debug\net7.0\ref\Day.dll
