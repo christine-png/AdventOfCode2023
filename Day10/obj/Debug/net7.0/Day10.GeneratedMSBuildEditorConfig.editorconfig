@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Day10
 build_property.ProjectDir = C:\Users\chrti\Documents\FH_Salzburg\1_Semester\Einfuehrung_Programmieren\AdventOfCode\Day10\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

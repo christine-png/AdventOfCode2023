@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7zN1+ANBkBHAUUmMjs6FWDYJ2gvlgkVY870lPr0Gs7jS7uc7OvjxSXxDYjJqk821hBtaZamyB9LY8kBxYXf+4Q==",
+  "dgSpecHash": "XspKWnhqtbqA8rlDrxtvG0aLys9MxVslqdnZ3OhAJFeU0xbu4OjCQBMw/u8gWLvtmznrP+C8ta2MyyxqiIQB1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\chrti\\Documents\\FH_Salzburg\\1_Semester\\Einfuehrung_Programmieren\\AdventOfCode\\Day10\\Day10.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chrti\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chrti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chrti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chrti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
